@@ -1,2 +1,2 @@
-# chef-repo
+# chef-repo personal_token: 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
 chef Configuration Management tool
